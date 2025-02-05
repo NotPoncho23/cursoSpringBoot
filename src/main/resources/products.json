@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "pru12",
+      "price": 110.0,
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "name": "pru22",
+      "price": 210.0,
+      "stock": 200
+    },
+    {
+      "id": 3,
+      "name": "pru32",
+      "price": 310.0,
+      "stock": 300
+    },
+    {
+      "id": 4,
+      "name": "pru42",
+      "price": 410.0,
+      "stock": 400
+    }
+  ]
